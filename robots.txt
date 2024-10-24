@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://racaduki.github.io/sitemap/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/Urq/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/fGR/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/imk/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/NKP/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/Ush/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/Vvh/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/XZC/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/XOh/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/vZe/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/RmY/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/JWv/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/xlC/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/IwS/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/waN/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/AwL/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/dmT/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/xQa/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/asm/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/PHu/sitemap_index.racaduki
+Sitemap: https://racaduki.github.io/Bhc/sitemap_index.racaduki
